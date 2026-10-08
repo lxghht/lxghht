@@ -32,17 +32,19 @@
 <br>
 
 ```text
-USUÁRIO    : lxghht
-ÁREA       : Desenvolvimento de Software
-LOCALIZAÇÃO: Brasil
-FOCO       : Software e Desenvolvimento de Jogos
-OBJETIVO   : Transformar ideias em projetos reais
-STATUS     : Em constante evolução
+USUÁRIO     : lxghht
+ÁREA        : Desenvolvimento de Software
+LOCALIZAÇÃO : Brasil
+FOCO        : Software e Desenvolvimento de Jogos
+OBJETIVO    : Transformar ideias em projetos reais
+STATUS      : Em constante evolução
 ```
 
-Sou entusiasta de tecnologia, programação e desenvolvimento de software.
+Gosto de fazer dinheiro desde cedo, buscando minha independência financeira e transformando oportunidades em resultados.
 
-Busco aprender novas ferramentas, desenvolver projetos próprios e transformar ideias em soluções reais.
+Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobrando pelas oportunidades que deixou passar.
+
+**Minha mentalidade é simples: evoluir constantemente, pensar grande e nunca me acomodar.**
 
 <br>
 
@@ -128,7 +130,7 @@ Busco aprender novas ferramentas, desenvolver projetos próprios e transformar i
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lxghht&theme=github_dark&title_color=FF3030&text_color=FFFFFF&icon_color=FF3030&chart_color=FF3030&bg_color=0D1117&border_color=30363D" alt="Estatísticas reais" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lxghht&theme=github_dark" alt="Estatísticas reais" />
 
 <br><br>
 
@@ -154,7 +156,7 @@ Busco aprender novas ferramentas, desenvolver projetos próprios e transformar i
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lxghht&theme=github_dark&title_color=FF3030&text_color=FFFFFF&icon_color=FF3030&chart_color=FF3030&bg_color=0D1117&border_color=30363D" width="95%" alt="Gráfico real de contribuições" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lxghht&theme=github_dark" width="95%" alt="Gráfico real de contribuições" />
 
 <br><br>
 
@@ -162,7 +164,7 @@ Busco aprender novas ferramentas, desenvolver projetos próprios e transformar i
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lxghht&theme=github_dark&utcOffset=-3&title_color=FF3030&text_color=FFFFFF&icon_color=FF3030&chart_color=FF3030&bg_color=0D1117&border_color=30363D" alt="Horários reais de atividade" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lxghht&theme=github_dark&utcOffset=-3" alt="Horários reais de atividade" />
 
 <br><br>
 
@@ -192,7 +194,7 @@ Busco aprender novas ferramentas, desenvolver projetos próprios e transformar i
 
 <br>
 
-Explorando tecnologias, desenvolvendo novas ideias e criando projetos.
+Sempre estudando sobre desenvolvimento de sistemas e dados.
 
 <br><br>
 
@@ -211,7 +213,11 @@ Explorando tecnologias, desenvolvendo novas ideias e criando projetos.
 <div align="center">
 
 <a href="https://github.com/lxghht">
-<img src="https://img.shields.io/badge/GITHUB-LXGHHT-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-LXGHHT-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
+</a>
+
+<a href="https://www.instagram.com/llxghht">
+  <img src="https://img.shields.io/badge/INSTAGRAM-LLXGHHT-8B0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram" />
 </a>
 
 <br><br><br>
