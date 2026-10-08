@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # lxghht
@@ -72,7 +73,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <br><br>
 
 <img src="https://img.shields.io/badge/PYTHON-8B0000?style=flat-square&labelColor=111111" alt="Python" />
-<img src="https://img.shields.io/badge/C++-8B0000?style=flat-square&labelColor=111111" alt="C++" />
+<img src="https://img.shields.io/badge/C%2B%2B-8B0000?style=flat-square&labelColor=111111" alt="C++" />
 <img src="https://img.shields.io/badge/VS_CODE-8B0000?style=flat-square&labelColor=111111" alt="VS Code" />
 <img src="https://img.shields.io/badge/CLAUDE_CODE-8B0000?style=flat-square&labelColor=111111" alt="Claude Code" />
 
@@ -95,18 +96,26 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <table>
 <tr>
 <td align="center" width="230">
+
 <img src="https://img.shields.io/badge/COMMITS-1.847-8B0000?style=for-the-badge&labelColor=111111" alt="1847 commits ilustrativos" />
+
 </td>
 <td align="center" width="230">
+
 <img src="https://img.shields.io/badge/CONTRIBUI%C3%87%C3%95ES-3.264-8B0000?style=for-the-badge&labelColor=111111" alt="3264 contribuições ilustrativas" />
+
 </td>
 </tr>
 <tr>
 <td align="center">
+
 <img src="https://img.shields.io/badge/ESTRELAS-128-8B0000?style=for-the-badge&labelColor=111111" alt="128 estrelas ilustrativas" />
+
 </td>
 <td align="center">
+
 <img src="https://img.shields.io/badge/DIAS_CONSECUTIVOS-147-8B0000?style=for-the-badge&labelColor=111111" alt="147 dias ilustrativos" />
+
 </td>
 </tr>
 </table>
@@ -117,7 +126,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <br>
 
-<sub>Os números acima são fictícios e servem apenas como demonstração visual.</sub>
+<sub>Os números acima são ilustrativos e não representam as métricas reais da conta.</sub>
 
 <br><br>
 
@@ -129,7 +138,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <br><br>
 
-**SEQUÊNCIA DE CONTRIBUIÇÕES**
+**SEQUÊNCIA REAL DE CONTRIBUIÇÕES**
 
 <br><br>
 
@@ -147,132 +156,36 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <div align="center">
 
-**CALENDÁRIO DE CONTRIBUIÇÕES**
+**CALENDÁRIO DE CONTRIBUIÇÕES — VISUALIZAÇÃO ILUSTRATIVA**
 
 <br><br>
 
 <table>
-  <tr>
-    <td><b>Out</b></td>
-    <td><b>Nov</b></td>
-    <td><b>Dez</b></td>
-    <td><b>Jan</b></td>
-    <td><b>Fev</b></td>
-    <td><b>Mar</b></td>
-    <td><b>Abr</b></td>
-    <td><b>Mai</b></td>
-    <td><b>Jun</b></td>
-    <td><b>Jul</b></td>
-    <td><b>Ago</b></td>
-    <td><b>Set</b></td>
-  </tr>
-  <tr>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-  </tr>
-  <tr>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-  </tr>
-  <tr>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-  </tr>
-  <tr>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-  </tr>
-  <tr>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-  </tr>
-  <tr>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-  </tr>
-  <tr>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥⬜🟥🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥⬜🟥</td>
-    <td>🟥🟥🟥🟥</td>
-    <td>🟥🟥🟥⬜</td>
-  </tr>
+<tr>
+<td><b>Out</b></td><td><b>Nov</b></td><td><b>Dez</b></td><td><b>Jan</b></td><td><b>Fev</b></td><td><b>Mar</b></td><td><b>Abr</b></td><td><b>Mai</b></td><td><b>Jun</b></td><td><b>Jul</b></td><td><b>Ago</b></td><td><b>Set</b></td>
+</tr>
+<tr>
+<td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td>
+</tr>
+<tr>
+<td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td>
+</tr>
+<tr>
+<td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td>
+</tr>
+<tr>
+<td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td>
+</tr>
+<tr>
+<td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td>
+</tr>
+<tr>
+<td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td>
+</tr>
+<tr>
+<td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥⬜🟥🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td><td>🟥🟥🟥🟥</td><td>🟥🟥⬜🟥</td><td>🟥🟥🟥🟥</td><td>🟥🟥🟥⬜</td>
+</tr>
 </table>
-
-<br>
-
-<img src="https://img.shields.io/badge/CALEND%C3%81RIO-ILUSTRATIVO-8B0000?style=flat-square&labelColor=111111" alt="Calendário ilustrativo" />
-
-<br>
-
-<sub>Calendário visual ilustrativo criado apenas para estética do perfil.</sub>
 
 <br><br>
 
