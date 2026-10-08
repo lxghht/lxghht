@@ -1,11 +1,13 @@
 
 <div align="center">
 
-# lxghht
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=L+X+G+H+H+T" alt="lxghht animado" />
+
+<br>
 
 **DESENVOLVEDOR DE SOFTWARE**
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&weight=600&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Apenas+fa%C3%A7a+dinheiro.;Quanto+mais+melhor.;Ven%C3%A7a+a+qualquer+custo." alt="Frases animadas" />
 
@@ -19,8 +21,8 @@
 
 <br><br>
 
-<!-- GIF PRINCIPAL DO PERFIL -->
-<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="320" alt="GIF principal do perfil" />
+<!-- GIF PRINCIPAL -->
+<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="320" alt="GIF principal" />
 
 </div>
 
@@ -99,7 +101,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <td align="center" width="35%" valign="middle">
 
 <!-- GIF DAS ESTATÍSTICAS -->
-<img src="https://www.image2url.com/r2/default/gifs/1791430633827-54947261-18ed-46f3-9f20-4700ed48c44d.gif" width="230" alt="GIF decorativo das estatísticas" />
+<img src="https://www.image2url.com/r2/default/gifs/1791430633827-54947261-18ed-46f3-9f20-4700ed48c44d.gif" width="230" alt="GIF das estatísticas" />
 
 </td>
 <td align="center" width="65%" valign="middle">
@@ -140,7 +142,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=lxghht&hide_border=true&background=0D1117&stroke=E8E8FF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E8E8FF&sideLabels=FFFFFF&dates=AAAAAA&locale=pt_BR" alt="Sequência real de contribuições" />
+<img src="https://streak-stats.demolab.com?user=lxghht&hide_border=true&background=0D1117&stroke=E8E8FF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E8E8FF&sideLabels=FFFFFF&dates=AAAAAA&locale=pt_BR" alt="Sequência real" />
 
 </div>
 
