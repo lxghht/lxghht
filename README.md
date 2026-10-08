@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- NOME ANIMADO: MONTSERRAT, GROSSO, SEM LOOP -->
+<!-- NOME ANIMADO: MONTSERRAT EXTRA BOLD, SEM LOOP -->
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=52&duration=1800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&height=95&lines=L+X+G+H+H+T&repeat=false" alt="LXGHHT" />
 
 <br>
@@ -24,8 +24,8 @@
 
 <br><br>
 
-<!-- GIF PRINCIPAL -->
-<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="320" alt="GIF principal do perfil" />
+<!-- GIF PRINCIPAL: BANNER MAIOR -->
+<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="600" alt="GIF principal do perfil" />
 
 </div>
 
