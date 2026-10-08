@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # lxghht
@@ -96,26 +95,18 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <table>
 <tr>
 <td align="center" width="230">
-
 <img src="https://img.shields.io/badge/COMMITS-1.847-8B0000?style=for-the-badge&labelColor=111111" alt="1847 commits ilustrativos" />
-
 </td>
 <td align="center" width="230">
-
 <img src="https://img.shields.io/badge/CONTRIBUI%C3%87%C3%95ES-3.264-8B0000?style=for-the-badge&labelColor=111111" alt="3264 contribuições ilustrativas" />
-
 </td>
 </tr>
 <tr>
 <td align="center">
-
 <img src="https://img.shields.io/badge/ESTRELAS-128-8B0000?style=for-the-badge&labelColor=111111" alt="128 estrelas ilustrativas" />
-
 </td>
 <td align="center">
-
 <img src="https://img.shields.io/badge/DIAS_CONSECUTIVOS-147-8B0000?style=for-the-badge&labelColor=111111" alt="147 dias ilustrativos" />
-
 </td>
 </tr>
 </table>
@@ -160,11 +151,128 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/FF3030/lxghht" alt="Calendário real de contribuições em vermelho" width="95%" />
+<table>
+  <tr>
+    <td><b>Out</b></td>
+    <td><b>Nov</b></td>
+    <td><b>Dez</b></td>
+    <td><b>Jan</b></td>
+    <td><b>Fev</b></td>
+    <td><b>Mar</b></td>
+    <td><b>Abr</b></td>
+    <td><b>Mai</b></td>
+    <td><b>Jun</b></td>
+    <td><b>Jul</b></td>
+    <td><b>Ago</b></td>
+    <td><b>Set</b></td>
+  </tr>
+  <tr>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+  </tr>
+  <tr>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+  </tr>
+  <tr>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+  </tr>
+  <tr>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+  </tr>
+  <tr>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+  </tr>
+  <tr>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+  </tr>
+  <tr>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥⬜🟥🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥⬜🟥</td>
+    <td>🟥🟥🟥🟥</td>
+    <td>🟥🟥🟥⬜</td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-<sub>Atividade pública registrada no GitHub.</sub>
+<img src="https://img.shields.io/badge/CALEND%C3%81RIO-ILUSTRATIVO-8B0000?style=flat-square&labelColor=111111" alt="Calendário ilustrativo" />
+
+<br>
+
+<sub>Calendário visual ilustrativo criado apenas para estética do perfil.</sub>
 
 <br><br>
 
