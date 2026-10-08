@@ -5,7 +5,7 @@
 
 **SOFTWARE DEVELOPER**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=460&lines=Desenvolvendo+ideias+em+c%C3%B3digo.;Aprendendo.+Criando.+Evoluindo.;Transformando+projetos+em+realidade." alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=460&lines=Apenas+fa%C3%A7a+dinheiro.;Quanto+mais+melhor.;Ven%C3%A7a+a+qualquer+custo." alt="Apresentação animada" />
 
 <br>
 
