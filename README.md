@@ -96,22 +96,26 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <table>
 <tr>
 <td align="center" width="230">
-<h2>1.847</h2>
-<b>COMMITS</b>
+
+<img src="https://img.shields.io/badge/COMMITS-1.847-8B0000?style=for-the-badge&labelColor=111111" alt="1847 commits ilustrativos" />
+
 </td>
 <td align="center" width="230">
-<h2>3.264</h2>
-<b>CONTRIBUIÇÕES</b>
+
+<img src="https://img.shields.io/badge/CONTRIBUI%C3%87%C3%95ES-3.264-8B0000?style=for-the-badge&labelColor=111111" alt="3264 contribuições ilustrativas" />
+
 </td>
 </tr>
 <tr>
 <td align="center">
-<h2>128</h2>
-<b>ESTRELAS</b>
+
+<img src="https://img.shields.io/badge/ESTRELAS-128-8B0000?style=for-the-badge&labelColor=111111" alt="128 estrelas ilustrativas" />
+
 </td>
 <td align="center">
-<h2>147</h2>
-<b>DIAS CONSECUTIVOS</b>
+
+<img src="https://img.shields.io/badge/DIAS_CONSECUTIVOS-147-8B0000?style=for-the-badge&labelColor=111111" alt="147 dias ilustrativos" />
+
 </td>
 </tr>
 </table>
@@ -122,7 +126,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <br>
 
-<sub>Estatísticas fictícias usadas apenas como demonstração visual.</sub>
+<sub>Os números acima são fictícios e servem apenas como demonstração visual.</sub>
 
 <br><br>
 
@@ -130,15 +134,15 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lxghht&theme=github_dark" alt="Estatísticas reais" />
+<img src="https://github-readme-stats.vercel.app/api?username=lxghht&show_icons=true&locale=pt-br&title_color=FF3030&text_color=FFFFFF&icon_color=FF3030&bg_color=0D1117&border_color=8B0000&hide_border=false&rank_icon=github" alt="Estatísticas reais em vermelho" />
 
 <br><br>
 
-**SEQUÊNCIA REAL DE CONTRIBUIÇÕES**
+**SEQUÊNCIA DE CONTRIBUIÇÕES**
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=lxghht&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FF3030&fire=FF3030&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3030&sideLabels=CCCCCC&dates=AAAAAA&locale=pt_BR" alt="Sequência real de contribuições" />
+<img src="https://streak-stats.demolab.com?user=lxghht&hide_border=true&background=0D1117&stroke=8B0000&ring=FF3030&fire=FF3030&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA&locale=pt_BR" alt="Sequência real de contribuições" />
 
 </div>
 
@@ -152,23 +156,23 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 
 <div align="center">
 
-**GRÁFICO DE CONTRIBUIÇÕES**
+**CALENDÁRIO DE CONTRIBUIÇÕES**
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lxghht&theme=github_dark" width="95%" alt="Gráfico real de contribuições" />
+<img src="https://ghchart.rshah.org/FF3030/lxghht" alt="Calendário real de contribuições em vermelho" width="95%" />
 
 <br><br>
 
-**HORÁRIOS DE ATIVIDADE**
+<sub>Atividade pública registrada no GitHub.</sub>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lxghht&theme=github_dark&utcOffset=-3" alt="Horários reais de atividade" />
+**EVOLUÇÃO CONTÍNUA**
 
-<br><br>
+<br>
 
-<sub>Gráficos baseados na atividade pública do GitHub.</sub>
+<img src="https://img.shields.io/badge/OBJETIVO-EVOLUIR_TODOS_OS_DIAS-8B0000?style=for-the-badge&labelColor=111111" alt="Evoluir todos os dias" />
 
 </div>
 
@@ -213,11 +217,11 @@ Sempre estudando sobre desenvolvimento de sistemas e dados.
 <div align="center">
 
 <a href="https://github.com/lxghht">
-  <img src="https://img.shields.io/badge/GITHUB-LXGHHT-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-LXGHHT-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
 </a>
 
 <a href="https://www.instagram.com/llxghht">
-  <img src="https://img.shields.io/badge/INSTAGRAM-LLXGHHT-8B0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram" />
+<img src="https://img.shields.io/badge/INSTAGRAM-LLXGHHT-8B0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram" />
 </a>
 
 <br><br><br>
