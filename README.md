@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- NOME ANIMADO: EXECUTA UMA VEZ E PERMANECE ESTÁTICO -->
+<!-- NOME ANIMADO: ANIMA UMA VEZ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=54&duration=1800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&height=95&lines=L+X+G+H+H+T&repeat=false" alt="LXGHHT" />
 
 <br>
@@ -10,11 +10,13 @@
 
 <br><br>
 
+<!-- FRASES ANIMADAS -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&weight=600&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Apenas+fa%C3%A7a+dinheiro.;Quanto+mais+melhor.;Ven%C3%A7a+a+qualquer+custo." alt="Frases animadas" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=lxghht&label=VISITAS&color=E8E8FF&labelColor=111111&style=flat-square" alt="Visitas ao perfil" />
+<!-- CONTADOR DE VISITAS -->
+<img src="https://komarev.com/ghpvc/?username=lxghht&label=VISITAS&color=E8E8FF&style=flat-square" alt="Visitas ao perfil" />
 
 <br><br>
 
@@ -22,8 +24,8 @@
 
 <br><br>
 
-<!-- GIF PRINCIPAL DO PERFIL -->
-<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="320" alt="GIF principal" />
+<!-- GIF PRINCIPAL -->
+<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="320" alt="GIF principal do perfil" />
 
 </div>
 
@@ -39,14 +41,14 @@
 USUÁRIO     : lxghht
 ÁREA        : Desenvolvimento de Software
 LOCALIZAÇÃO : Brasil
-FOCO        : Software e Desenvolvimento de Jogos
+FOCO        : Software e Desenvolvimento de Sistemas
 OBJETIVO    : Transformar ideias em projetos reais
 STATUS      : Em constante evolução
 ```
 
-Gosto de fazer dinheiro desde cedo, buscando minha independência financeira e transformando oportunidades em resultados.
+Gosto de fazer dinheiro sendo novo, apenas busque mais e mais, assim não ficará preso no padrão.
 
-Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobrando pelas oportunidades que deixou passar.
+Ou você vence o sistema ou eles te vencem, apenas escolha qual gostaria.
 
 **Minha mentalidade é simples: evoluir constantemente, pensar grande e nunca me acomodar.**
 
@@ -175,7 +177,7 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <td>⬜⬜⬜⬜</td><td>⬜◻️⬜⬜</td><td>⬜⬜⬜⬜</td><td>⬜⬜◻️⬜</td><td>⬜⬜⬜⬜</td><td>⬜◻️⬜⬜</td>
 </tr>
 <tr>
-<td>⬜◻️⬜⬜</td><td>⬜⬜⬜⬜</td><td>⬜⬜◻️⬜</td><td>⬜⬜⬜⬜</td><td>⬜◻️⬜⬜</td><td>⬜⬜⬜⬜</td>
+<td>⬜◻️⬜⬜</td><td>⬜⬜⬜⬜</td><td>⬜⬜⬜⬜</td><td>⬜⬜⬜⬜</td><td>⬜◻️⬜⬜</td><td>⬜⬜⬜⬜</td>
 </tr>
 <tr>
 <td>⬜⬜⬜⬜</td><td>⬜⬜◻️⬜</td><td>⬜⬜⬜⬜</td><td>⬜◻️⬜⬜</td><td>⬜⬜⬜⬜</td><td>⬜⬜◻️⬜</td>
