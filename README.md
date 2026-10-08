@@ -19,7 +19,8 @@
 
 <br><br>
 
-<sub>CRIAR • EVOLUIR • CONQUISTAR</sub>
+<!-- GIF PRINCIPAL DO PERFIL -->
+<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="320" alt="GIF principal do perfil" />
 
 </div>
 
@@ -49,12 +50,6 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <br>
 
 <div align="center">
-
-<!-- GIF 1: SOBRE MIM -->
-
-<img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="500" alt="GIF de apresentação" />
-
-<br><br>
 
 <img src="https://img.shields.io/badge/MENTALIDADE-FOCO_E_RESULTADOS-E8E8FF?style=for-the-badge&labelColor=111111" alt="Mentalidade" />
 
@@ -103,9 +98,8 @@ Acredito que, se você não buscar sua evolução hoje, amanhã estará se cobra
 <tr>
 <td align="center" width="35%" valign="middle">
 
-<!-- GIF 2: ESTATÍSTICAS -->
-
-<img src="https://www.image2url.com/r2/default/gifs/1791430633827-54947261-18ed-46f3-9f20-4700ed48c44d.gif" width="230" alt="GIF decorativo ao lado das estatísticas" />
+<!-- GIF DAS ESTATÍSTICAS -->
+<img src="https://www.image2url.com/r2/default/gifs/1791430633827-54947261-18ed-46f3-9f20-4700ed48c44d.gif" width="230" alt="GIF decorativo das estatísticas" />
 
 </td>
 <td align="center" width="65%" valign="middle">
