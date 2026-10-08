@@ -39,11 +39,15 @@ Tenho interesse em programação, criação de sistemas e desenvolvimento de jog
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions&theme=dark" alt="Ferramentas de desenvolvimento" />
+<img src="https://skillicons.dev/icons?i=python,cpp,vscode&theme=dark" alt="Python, C++ e VS Code" />
 
 <br><br>
 
-`Git` · `GitHub` · `VS Code` · `Automação`
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+
+<br><br>
+
+`Claude Code` · `Python` · `C++` · `VS Code`
 
 </div>
 
